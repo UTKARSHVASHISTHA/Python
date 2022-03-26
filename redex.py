@@ -31,3 +31,10 @@ import re
 txt= "The rain in spain"
 x=re.findall("[a-n-T]",txt)
 print (x)
+
+
+
+import re
+txt= "Hellllo planet"
+x=re.findall("He....o",txt)
+print (x)
