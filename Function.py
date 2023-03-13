@@ -28,7 +28,7 @@ def student_detail(stu_name,stu_age,stu_course):
     print("Student Course is:",stu_course)
     print()
 
-student_detail("Utkarsh",20,"Python")
+student_detail("Utkarsh",22,"Python")
 student_detail("Kunal",20,"Python")
 
 
